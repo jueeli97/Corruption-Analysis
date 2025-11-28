@@ -31,6 +31,7 @@ To answer:
   Strong correlation between trust in science & trust in media
 
   Democratically strong countries tend to be less corrupt  
+  </br>
 
 
 **2.** Corruption vs Health Service Coverage
@@ -38,7 +39,7 @@ To answer:
   Countries with low corruption achieve better health service coverage
 
   Strong positive regression direction  
-
+</br>
 
 **3.** Tableau Dashboard – Global Governance & Development
 
