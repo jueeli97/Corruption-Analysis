@@ -22,25 +22,25 @@ To answer:
 ---
 
 
-## 📊 Key Visualizations
+## 📊 Key Visualizations  
 
-1. Correlation Heatmap – Trust & Governance Metrics
+- **1.** Correlation Heatmap – Trust & Governance Metrics
 
 Higher corruption = lower trust in institutions
 
 Strong correlation between trust in science & trust in media
 
-Democratically strong countries tend to be less corrupt
+Democratically strong countries tend to be less corrupt  
 
 
-2. Corruption vs Health Service Coverage
+- **2.** Corruption vs Health Service Coverage
 
 Countries with low corruption achieve better health service coverage
 
-Strong positive regression direction
+Strong positive regression direction  
 
 
-3. Tableau Dashboard – Global Governance & Development
+- **3.** Tableau Dashboard – Global Governance & Development
 
 Includes:
 
