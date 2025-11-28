@@ -85,7 +85,7 @@ To answer:
 
 **4.** Interpretation
 
-Connected corruption with trust, governance, inequality, and development metrics
+  Connected corruption with trust, governance, inequality, and development metrics
 
 ---
 
@@ -95,29 +95,29 @@ Connected corruption with trust, governance, inequality, and development metrics
 
 🏛️ Governance & Trust
 
-High corruption → low trust in government
+  High corruption → low trust in government
 
-Low corruption → stronger democratic structures
-</br>
+  Low corruption → stronger democratic structures    
+  </br>
 
 🩺 Health Outcomes
 
-Better governance = better health coverage
+  Better governance = better health coverage
 
-Transparency improves health system performance
-</br>
+  Transparency improves health system performance     
+  </br>
 
 💰 Economic Inequality
 
-Corruption correlates with higher Gini Index
+  Corruption correlates with higher Gini Index
 
-Wealth distribution becomes more unequal in corrupt nations
-</br>
+  Wealth distribution becomes more unequal in corrupt nations      
+  </br>
 
 📰 Press Freedom
 
-Countries with high press freedom have significantly lower corruption
+  Countries with high press freedom have significantly lower corruption
 
-Restricted media environments show high corruption
+  Restricted media environments show high corruption
 
 ---
