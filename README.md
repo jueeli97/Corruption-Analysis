@@ -60,28 +60,28 @@ To answer:
 
 **1.** Data Preparation
 
-Cleaned global indicators
+  Cleaned global indicators
 
-Standardized country names
+  Standardized country names
 
-Removed missing/incomplete data
-</br>
+  Removed missing/incomplete data    
+  </br>
 
 **2.** Exploratory Analysis (R)
 
-Summary statistics
+  Summary statistics
 
-Correlation matrix
+  Correlation matrix
 
-CPI vs Health regression
-</br>
+  CPI vs Health regression    
+  </br>
 
 **3.** Visualization
 
-R (ggplot2) → statistical plots
+  R (ggplot2) → statistical plots
 
-Tableau → interactive global dashboards
-</br>
+  Tableau → interactive global dashboards    
+  </br>
 
 **4.** Interpretation
 
