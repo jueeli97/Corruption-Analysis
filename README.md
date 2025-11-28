@@ -51,38 +51,39 @@ To answer:
 
   🏛️ Corruption vs Trust in Government
 
-📰 Press Freedom vs Corruption
+  📰 Press Freedom vs Corruption
 
 ---
 
 
 ## 🔬 Methodology
 
-1. Data Preparation
+**1.** Data Preparation
 
 Cleaned global indicators
 
 Standardized country names
 
 Removed missing/incomplete data
+</br>
 
-
-2. Exploratory Analysis (R)
+**2.** Exploratory Analysis (R)
 
 Summary statistics
 
 Correlation matrix
 
 CPI vs Health regression
+</br>
 
-
-3. Visualization
+**3.** Visualization
 
 R (ggplot2) → statistical plots
 
 Tableau → interactive global dashboards
+</br>
 
-4. Interpretation
+**4.** Interpretation
 
 Connected corruption with trust, governance, inequality, and development metrics
 
@@ -97,18 +98,21 @@ Connected corruption with trust, governance, inequality, and development metrics
 High corruption → low trust in government
 
 Low corruption → stronger democratic structures
+</br>
 
 🩺 Health Outcomes
 
 Better governance = better health coverage
 
 Transparency improves health system performance
+</br>
 
 💰 Economic Inequality
 
 Corruption correlates with higher Gini Index
 
 Wealth distribution becomes more unequal in corrupt nations
+</br>
 
 📰 Press Freedom
 
